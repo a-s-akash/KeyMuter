@@ -60,3 +60,12 @@ To run the app, all the necessary files must be placed in a single folder, and y
 
 To ensure automatic startup of this application every time you boot your PC, simply place the **RunScript.vbs** file in the startup folder, located at 
 *'C:\Users\username\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup'*
+
+Working Video:
+==============
+
+
+https://github.com/a-s-akash/KeyMuter/assets/149227673/10cbc2a0-354c-435d-b10d-173197d8da3a
+
+
+
