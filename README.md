@@ -58,4 +58,5 @@ Includes **"runner.bat"** and **"RunScript.vbs"** for running the Python program
 
 To run the app, all the necessary files must be placed in a single folder, and you should execute **"RunScript.vbs"** each time instead of directly running the Python file.
 
-To ensure automatic startup of this application every time you boot your PC, simply place the **RunScript.vbs** file in the startup folder, located at *'C:\Users\username\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup'*
+To ensure automatic startup of this application every time you boot your PC, simply place the **RunScript.vbs** file in the startup folder, located at 
+*'C:\Users\username\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup'*
