@@ -1,3 +1,10 @@
+'''
+You need to install the following libraries
+pip install keyboard
+pip install PyQt5
+pip install plyer
+'''
+
 import sys
 from PyQt5.QtWidgets import QApplication, QSystemTrayIcon, QMenu, QAction
 from PyQt5.QtGui import QIcon
